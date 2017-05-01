@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+    <person di="a1" >
+        <name>liming</name>
+        <age>11</age>
+        <user userId="111">
+            <sex>man</sex>
+            <id_car>man_xy</id_car>
+        </user>
+    </person>
+    <person di="a2" >
+        <name>lilei</name>
+        <age>12</age>
+        <user userId="112">
+            <sex>woman</sex>
+            <id_car>woman_xx</id_car>
+        </user>
+    </person>
+
+
+</persons>
